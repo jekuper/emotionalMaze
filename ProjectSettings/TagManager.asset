@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - star
+  - camp
+  - key
+  - bullet
+  - enemy
+  - chain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2477505375
+    locked: 0
+  - name: walls
+    uniqueID: 2977698849
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: particles
+    uniqueID: 3434753049
+    locked: 0
+  - name: UI
+    uniqueID: 2221071021
+    locked: 0
+  - name: effects
+    uniqueID: 552728267
+    locked: 0
