@@ -681,6 +681,6 @@ public class mazeManager : MonoBehaviour
         GameObject campClone = Instantiate(camp, pos, new Quaternion(), mazeContainer);
         campClone.transform.localScale = new Vector3((float)cellSize / 2, (float)cellSize / 2, campClone.transform.localScale.z);
         campClone.GetComponent<CircleCollider2D>().radius = cellSize;
-        campClone.GetComponentInChildren<UnityEngine.Experimental.Rendering.Universal.Light2D>(true).pointLightOuterRadius = (float)cellSize * (float)cellSize / 2;
+        campClone.GetComponentInChildren<UnityEngine.Rendering.Universal.Light2D>(true).pointLightOuterRadius = (float)cellSize * (float)cellSize / 2;
     }
 }

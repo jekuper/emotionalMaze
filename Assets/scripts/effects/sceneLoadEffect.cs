@@ -6,7 +6,7 @@ using TMPro;
 
 public class sceneLoadEffect : MonoBehaviour
 {
-    public UnityEngine.Experimental.Rendering.Universal.Light2D lightP;
+    public UnityEngine.Rendering.Universal.Light2D lightP;
     public GameObject particle;
     public RectTransform target;
 

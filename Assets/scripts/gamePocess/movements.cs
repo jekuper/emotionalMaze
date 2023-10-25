@@ -13,7 +13,7 @@ public class movements : MonoBehaviour {
     public TextMeshProUGUI transition;
     public TipsTrigger tipsTrigger;
 
-    public UnityEngine.Experimental.Rendering.Universal.Light2D lightPoint;
+    public UnityEngine.Rendering.Universal.Light2D lightPoint;
     
     public float speed = 3f;
     public float lightTimerInit = 5f;

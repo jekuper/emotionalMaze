@@ -8,7 +8,7 @@ public static class cEffector
 {
     #region light resizing
 
-    public static IEnumerator resizeLight(UnityEngine.Experimental.Rendering.Universal.Light2D lightPoint, float targetOuterRadius, float speed, bool includeInnerRadius = false)
+    public static IEnumerator resizeLight(UnityEngine.Rendering.Universal.Light2D lightPoint, float targetOuterRadius, float speed, bool includeInnerRadius = false)
     {
         speed = Mathf.Abs(speed);
         if (lightPoint.pointLightOuterRadius > targetOuterRadius)
@@ -23,7 +23,7 @@ public static class cEffector
         }
         lightPoint.pointLightOuterRadius = targetOuterRadius;
     }
-    public static IEnumerator resizeLight2(UnityEngine.Experimental.Rendering.Universal.Light2D lightPoint, float targetOuterRadius, float timing, bool includeInnerRadius = false)
+    public static IEnumerator resizeLight2(UnityEngine.Rendering.Universal.Light2D lightPoint, float targetOuterRadius, float timing, bool includeInnerRadius = false)
     {
         float speed = Mathf.Abs(lightPoint.pointLightOuterRadius - targetOuterRadius) / timing;
 

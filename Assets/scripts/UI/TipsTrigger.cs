@@ -17,7 +17,7 @@ public class TipsTrigger : MonoBehaviour
     };
     private Dictionary<string, bool> triggerUsed = new Dictionary<string, bool>();
 
-    [SerializeField] private UnityEngine.Experimental.Rendering.Universal.Light2D pointLight;
+    [SerializeField] private UnityEngine.Rendering.Universal.Light2D pointLight;
     private bool isCurrentlyTriggered = false;
 
     public void Trigger (string triggerTag, TipsManager tipObj = null) {
