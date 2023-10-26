@@ -8,8 +8,8 @@ Welcome to the "Emotional Maze" – a unique and thought-provoking puzzle game t
 "Emotional Maze" offers a captivating and introspective gaming experience that challenges players to confront their innermost fears and insecurities. The game's premise is centered around navigating a complex labyrinth filled with emotional obstacles. By collecting cherished memories and confronting your deepest fears, you gradually unveil the path to self-acceptance and liberation.
 
 <p align="center">
-<img width="49%" src="https://github.com/jekuper/emotionalMaze/blob/master/readme_supplemental/1.png?raw=true" alt="screenshots">
-<img width="49%" src="https://github.com/jekuper/emotionalMaze/blob/master/readme_supplemental/2.png?raw=true" alt="screenshots">
+<img width="49%" src="https://github.com/jekuper/emotionalMaze/blob/master/readme_supplimental/1.png?raw=true" alt="screenshots">
+<img width="49%" src="https://github.com/jekuper/emotionalMaze/blob/master/readme_supplimental/2.png?raw=true" alt="screenshots">
 </p>
 
 ## Algorithms used
