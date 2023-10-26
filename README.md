@@ -1,3 +1,4 @@
+<img width="100%" src="https://github.com/jekuper/emotionalMaze/blob/master/readme_supplimental/banner.png?raw=true" alt="banner">
 # Emotional Maze - A Journey Through the Labyrinth of Emotions
 
 Welcome to the "Emotional Maze" – a unique and thought-provoking puzzle game that takes you on an introspective journey through a labyrinth of emotions, fears, and self-discovery. In this immersive gaming experience, players assume the role of a lost soul navigating the complexities of their inner world. To successfully escape, you must collect precious memories, conquer your deepest fears, and come to terms with your true self.
@@ -6,7 +7,12 @@ Welcome to the "Emotional Maze" – a unique and thought-provoking puzzle game t
 
 "Emotional Maze" offers a captivating and introspective gaming experience that challenges players to confront their innermost fears and insecurities. The game's premise is centered around navigating a complex labyrinth filled with emotional obstacles. By collecting cherished memories and confronting your deepest fears, you gradually unveil the path to self-acceptance and liberation.
 
-## Algo used
+<p align="center">
+<img width="49%" src="https://github.com/jekuper/emotionalMaze/blob/master/readme_supplemental/1.png?raw=true" alt="screenshots">
+<img width="49%" src="https://github.com/jekuper/emotionalMaze/blob/master/readme_supplemental/2.png?raw=true" alt="screenshots">
+</p>
+
+## Algorithms used
 
 ### Procedural Generation of Labyrinths
 
@@ -19,7 +25,7 @@ Play Online
 Experience the game directly in your web browser by visiting our online platform: <a href="https://jekuper.itch.io/emotional-maze">Play Online</a>
 
 Android Version
-For those who prefer to play on their Android devices, you can download the game by visiting our GitHub repository: <a href="https://github.com/jekuper/emotionalMaze/blob/master/build.apk">Download for Android</a>
+For those who prefer to play on their Android devices, you can download the game by visiting our GitHub repository: <a href="https://github.com/jekuper/emotionalMaze/blob/master/maze.apk">Download for Android</a>
 
 # The Future of the Project
 
