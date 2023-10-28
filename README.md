@@ -1,4 +1,5 @@
 <img width="100%" src="https://github.com/jekuper/emotionalMaze/blob/master/readme_supplimental/banner.png?raw=true" alt="banner">
+
 # Emotional Maze - A Journey Through the Labyrinth of Emotions
 
 Welcome to the "Emotional Maze" – a unique and thought-provoking puzzle game that takes you on an introspective journey through a labyrinth of emotions, fears, and self-discovery. In this immersive gaming experience, players assume the role of a lost soul navigating the complexities of their inner world. To successfully escape, you must collect precious memories, conquer your deepest fears, and come to terms with your true self.
